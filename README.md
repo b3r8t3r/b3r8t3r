@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ShuvVa
+- 👀 I’m interested in programming and game development
+- 🌱 I’m currently learning OpenGL
