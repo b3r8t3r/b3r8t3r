@@ -1,6 +1,6 @@
 # Greetings, visitor!
 
-- 👋 I’m @ShuvVa
+- 👋 I’m @z3rr0b3arr8t0r
 - 👀 I’m interested in programming and game development
 - 🌱 I’m currently learning OpenGL
 
