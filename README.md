@@ -1,6 +1,6 @@
 # Greetings, visitor!
 
-- 👋 I’m @b3r8t3r
+- 👋 I’m Vadim Shuvaev (@b3r8t3r)
 - 👀 I’m interested in programming and game development
 - 🌱 I’m currently learning OpenGL
 
