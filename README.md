@@ -22,7 +22,7 @@ You can check out my projects:
 
 # 🏆 Github profile trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=b3r8t3r&theme=tokyonight&column=4&row=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=b3r8t3r&theme=tokyonight&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Codewars
 
