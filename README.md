@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Blender, OpenGL, Godot Engine
 
 You can check out my projects:
-- 📖 [Interactive Book Reader](https://github.com/b3r8t3r/Interactive-Book-Reader "Interactive Book Reader")
+- 📖 [Interactive Story Book](https://github.com/b3r8t3r/Interactive-Story-Book "Interactive Story Book")
 - 🏓 [Pong](https://github.com/b3r8t3r/Pong-GLFW "Pong")
 - 🔗 [Https to ssh link converter](https://github.com/b3r8t3r/https-into-ssh "Https to ssh link converter")
 - <img src="https://github.com/b3r8t3r/b3r8t3r/raw/master/src/terminal.svg" width="2.2%" height="2.2%"></img> [Multiple .zshrc file loader](https://github.com/b3r8t3r/Multiple-zshrc)
